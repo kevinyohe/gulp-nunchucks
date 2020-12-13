@@ -1,0 +1,4 @@
+{{item}} is cool
+{{item | upper}}
+
+Sample template.
